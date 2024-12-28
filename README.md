@@ -21,6 +21,7 @@ XFileTransferApp implements a file transfer system using Python's socket program
   - `tqdm`
   - `configparser`
   - `localization` (custom module)
+    [download from https://github.com/lavrentijav/XFileTransferApp/tree/localization (ver == 0.0.2)]
 
 ## Installation
 1. Clone the repository:
